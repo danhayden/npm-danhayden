@@ -1,0 +1,19 @@
+{
+  "name": "danhayden",
+  "version": "1.0.0",
+  "description": "me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Hayden <pythonic1@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhayden/npm-danhayden.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danhayden/npm-danhayden/issues"
+  },
+  "homepage": "https://github.com/danhayden/npm-danhayden#readme"
+}
